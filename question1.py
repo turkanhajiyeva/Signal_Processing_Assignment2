@@ -1,6 +1,5 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import control.matlab as cn
 
 t = np.arange(-50,50,0.01)
 
